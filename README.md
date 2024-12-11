@@ -86,6 +86,10 @@ Here are the key insights from your HR Analytics Dashboard:
   - DAX queries for metrics calculation.
   - Advanced filtering and data slicing.
   - Interactive visualization techniques.
+ 
+## download data from
+
+[data](https://github.com/vandanaakula/HR_AnalyticsDashboard_project/blob/main/HR_Analytics%20(1).csv)
 
 ---## Author
 This project was carried out by AKULA VENKATA SAI VANDANA.
