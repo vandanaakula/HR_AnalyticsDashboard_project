@@ -91,7 +91,7 @@ Here are the key insights from your HR Analytics Dashboard:
 
 [data](https://github.com/vandanaakula/HR_AnalyticsDashboard_project/blob/main/HR_Analytics%20(1).csv)
 
----## Author
+## Author
 This project was carried out by AKULA VENKATA SAI VANDANA.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vandana-akula-371695250/) for feedback, suggestions, or collaboration opportunities.
